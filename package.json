@@ -1,0 +1,21 @@
+{
+  "name": "mymaplib",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/mymaplib.umd.js",
+  "module": "fesm5/mymaplib.js",
+  "es2015": "fesm2015/mymaplib.js",
+  "esm5": "esm5/mymaplib.js",
+  "esm2015": "esm2015/mymaplib.js",
+  "fesm5": "fesm5/mymaplib.js",
+  "fesm2015": "fesm2015/mymaplib.js",
+  "typings": "mymaplib.d.ts",
+  "metadata": "mymaplib.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
